@@ -5,6 +5,5 @@ samples
 test
 test-helpers
 usage-tests
-src
 .travis.yml
 .gitignore
